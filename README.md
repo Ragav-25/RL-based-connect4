@@ -37,5 +37,5 @@ python game.py
 
 Have fun!
 
-### Acknowlegement 
+### Acknowledgment
 This project is done by Ragav
